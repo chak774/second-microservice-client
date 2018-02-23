@@ -1,2 +1,10 @@
-# second-microservice-client
-A simple Angular 5 project to call Node.js project to implement CRUD to MongoDB.
+### Stack
+- Angular 5
+
+### How to run?    
+
+- git clone
+- npm install
+- ng serve
+- go to localhost:4200
+   
